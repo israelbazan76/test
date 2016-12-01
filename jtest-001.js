@@ -1,7 +1,7 @@
 <SCRIPT LANGUAGE="JavaScript">
 var now = new Date();
 
-var days = new Array('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday');
+var days = new Array('Domingo','Lunes','Martes','miercoles','jueves','viernes','sabado');
 
 var months = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
 
