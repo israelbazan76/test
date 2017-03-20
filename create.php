@@ -8,7 +8,11 @@ $this->breadcrumbs=array(
 	'Seccionales'=>array('index'),
 	'Create',
 );
+<<<<<<< HEAD
 /* blablabla jejejejejeje jojojojojo*/
+=======
+/* blablabla*/
+>>>>>>> 1ec554e6efc773adf04f73add44702a2458059e1
 
 ?>
 
