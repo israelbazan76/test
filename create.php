@@ -8,7 +8,7 @@ $this->breadcrumbs=array(
 	'Seccionales'=>array('index'),
 	'Create',
 );
-/* blablabla jejejejejeje*/
+/* blablabla jejejejejeje jojojojojo*/
 
 ?>
 
